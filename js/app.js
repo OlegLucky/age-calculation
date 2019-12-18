@@ -1,4 +1,4 @@
-console.log('Birtday');
+console.log('Birthday');
 
 var BirthYear = prompt('Your year pls');
 var BirthMonths = prompt('Your month pls, by letters');
